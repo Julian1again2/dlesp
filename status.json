@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-05-14T07:49:44.021Z",
+  "integrityScore": 95,
+  "status": "PASSED",
+  "components": {
+    "anchoring": "Working",
+    "kmsSigning": "Working",
+    "consensus": "Healthy (Demo)",
+    "prometheus": "Reachable",
+    "metrics": {
+      "reachable": true,
+      "peers": 8,
+      "height": 1337,
+      "validators": 42
+    }
+  },
+  "allOperational": true
+}

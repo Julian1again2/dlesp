@@ -1,0 +1,1 @@
+{"anchors":{},"currency":"cryptic-credits","issued_at":"2026-05-14T07:31:22Z","line_items":[{"amount":10,"code":"svc:1","desc":"test svc","qty":1,"unit":"svc"}],"payee":"did:example:jmshoopman","payer":"did:example:alice","receipt_id":"rcpt:test:1","status":"issued","tax":0,"total":10}
