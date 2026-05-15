@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+*.log
+*.tgz
+*.patch
+mirror_out/
+anchor_work/
+ignite
